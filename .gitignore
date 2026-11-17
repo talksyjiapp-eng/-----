@@ -1,0 +1,5 @@
+node_modules/
+vault_data/
+vault_db.json
+output.log
+.env
